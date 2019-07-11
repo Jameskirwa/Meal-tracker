@@ -1,0 +1,67 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body{
+    min-height: 100vh;
+  /* background: url('./assets/img/quote.jpg'), rgb(0, 162, 255); */
+  background-attachment: fixed;
+    background-image: url("https://media1.tenor.com/images/eca9553e4059e5367a410d55d21fde5a/tenor.gif?itemid=5059550");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: 'Notable', sans-serif;
+    color:blueviolet;
+    position: relative;
+    color: white;
+    background-color: black;
+    border: none;
+    padding: 4px 30px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    outline-color: transparent;
+}
+h2{
+    color: blueviolet;
+    border: none;
+    padding: 4px 30px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    outline-color: transparent; 
+}
+.container{
+    border-radius: 8px ;
+    font-size: 35px;
+    text-align: center;
+    position: relative;
+    color: blue;
+    /* background-color: black; */
+    border: none;
+    margin: 12px;
+    padding: 30px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    outline-color: transparent;
+}
+button {
+    box-shadow: 0 0 20px rgb(255, 255, 255);
+    border-radius: 30px;
+    transition-delay: 0.1s;
+    position: relative;
+    background-color: green;
+    border: none;
+    padding: 6px 30px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    outline-color: transparent;
+  }
+  .class{
+    content: '';
+    position: absolute;
+    transform: rotate(45deg);
+    top: 5px;
+    height: 15px;
+    width: 15px;
+    left: 0;
+    transition: all 0.2s ease;    
+  }
