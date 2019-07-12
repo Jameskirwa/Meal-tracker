@@ -18,6 +18,8 @@ There are no known bugs in the application.Feel free to inform me of bugs on the
 ## BDD
 ### Business Logic
 This application allows creation of quotes and publisher.It also takes the names of the quotes publisher.It also allows voting of quotes whether they are inspirational or not.The application also shows the number of days that has passed since published date.
+## User Interface Logic
+The user interface is a one page website that has an input section for creating new quote,date and name of publisher.The user can enter their names as authors of the quote,the quote itself and the date of submission.They then click on the button add quote for it to be added to the quotes section.
 ## Support and contact details
 You can contact us via our email:jameskirwa34@gmail.com and denisnyamweya813@gmail.com for further information.
 ### License
