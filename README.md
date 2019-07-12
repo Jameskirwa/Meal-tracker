@@ -1,6 +1,6 @@
 # Meal-tracker
 #### This is  a meal tracking application where the user gets to keep track of the food they consume in each day., 12th July 2019
-#### By **Dennis Makori Nyamweya**
+#### By **Dennis Makori Nyamweya and James Kirwa**
 ## Description
 This is  a meal tracking application where the user gets to keep track of the food they consume in each day.A user is able to track the food they consume in terms of name,description,details and description.
 ## Setup/Installation Requirements
@@ -18,6 +18,26 @@ There are no known bugs in the application.Feel free to inform me of bugs on the
 ## Support and contact details
 You can contact us via our email:jameskirwa34@gmail.com and denisnyamweya813@gmail.com for further information.
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+*{MIT License
+
+Copyright (c) [2019] [James Kirwa,Dennis Nyamweya]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.}*
+Copyright (c) {2019} **{James Kirwa,Dennis Nyamweya}**
   
