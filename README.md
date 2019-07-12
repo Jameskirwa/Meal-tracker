@@ -19,7 +19,7 @@ There are no known bugs in the application.Feel free to inform me of bugs on the
 ### Business Logic
 This application allows meal tracking  where the user gets to keep track of the food they consume in each day.The user inputs the name of food,description and calories consumed.The user can then add them to the list.You can view the list according to calories consumed and given permissions to edit and delete.
 ## User Interface Logic
-The user interface is a one page website that has an input section for creating new quote,date and name of publisher.The user can enter their names as authors of the quote,the quote itself and the date of submission.They then click on the button add quote for it to be added to the quotes section.
+The user interface is a one page site that has an input section that you enter food name,description and calories.You can view the list according to calories consumed and given permissions to edit and delete.
 ## Support and contact details
 You can contact us via our email:jameskirwa34@gmail.com and denisnyamweya813@gmail.com for further information.
 ### License
