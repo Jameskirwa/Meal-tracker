@@ -5,7 +5,7 @@
 This is  a meal tracking application where the user gets to keep track of the food they consume in each day.A user is able to track the food they consume in terms of name,description,details and description.
 ## Setup/Installation Requirements
 * git clone https://github.com/Jameskirwa/meal-tracker.git
-* cd 
+* cd Meal-tracker
 * npm install
 * ng serve --open
 ## Known Bugs
