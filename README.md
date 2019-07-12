@@ -16,7 +16,7 @@ There are no known bugs in the application.Feel free to inform me of bugs on the
 * Javascript
 * Typescript(Angular) 
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+You can contact us via our email:jameskirwa34@gmail.com and denisnyamweya813@gmail.com for further information.
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
