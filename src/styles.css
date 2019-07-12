@@ -3,7 +3,6 @@
 
 body{
     min-height: 100vh;
-  /* background: url('./assets/img/quote.jpg'), rgb(0, 162, 255); */
   background-attachment: fixed;
     background-image: url("https://media1.tenor.com/images/eca9553e4059e5367a410d55d21fde5a/tenor.gif?itemid=5059550");
     background-repeat: no-repeat;
