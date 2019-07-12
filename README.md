@@ -1,6 +1,6 @@
 # Meal-tracker
 #### This is  a meal tracking application where the user gets to keep track of the food they consume in each day., 12th July 2019
-#### By **Dennis Makori Nyamweya and James Kirwa**
+#### By **Dennis Nyamweya and James Kirwa**
 ## Description
 This is  a meal tracking application where the user gets to keep track of the food they consume in each day.A user is able to track the food they consume in terms of name,description,details and description.
 ## Setup/Installation Requirements
